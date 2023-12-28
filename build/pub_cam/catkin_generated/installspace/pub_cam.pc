@@ -1,0 +1,8 @@
+prefix=/home/jayabawan/object_detection_06_12/install
+
+Name: pub_cam
+Description: Description of pub_cam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
